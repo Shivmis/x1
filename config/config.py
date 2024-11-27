@@ -217,12 +217,12 @@ START_IMG_URL = getenv(
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/ee9f6b1be6d935412b144-224fb3eeaeb60a815b.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/6694152b5167a56d8ba2a-bf5934868bc42c5a35.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
