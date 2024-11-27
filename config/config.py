@@ -109,14 +109,14 @@ AUTO_GCAST_MSG = getenv("AUTO_GCAST_MSG", "")
 
 
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/NOBITA_ALL_BOT"
+    "SUPPORT_CHANNEL", "https://t.me/Shivang_xd"
 )  # Example:- https://t.me/NOBITA_ALL_BOT
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/NOBITA_SUPPORT"
+    "SUPPORT_GROUP", "https://t.me/FRIENDS_ZONE_GP"
 )  # Example:- https://t.me/NOBITA_SUPPORT
 
 SUPPORT_CHAT = getenv(
-    "SUPPORT_GROUP", "https://t.me/NOBITA_SUPPORT"
+    "SUPPORT_GROUP", "https://t.me/FRIENDS_ZONE_GP"
 )  # Example:- https://t.me/NOBITA_SUPPORT
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
@@ -212,7 +212,7 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/e7ca1ed37ca4ff8e95468-cde9c11ae34e2e1f8e.jpg",
 )
 
 PING_IMG_URL = getenv(
