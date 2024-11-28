@@ -227,32 +227,32 @@ PLAYLIST_IMG_URL = getenv(
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/5ff70ad8bfab652c3bc1d-7fc84894af8edbb69e.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/ee9f6b1be6d935412b144-224fb3eeaeb60a815b.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
     "TELEGRAM_AUDIO_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/92ac9a4ac302e1df01a79-04af86a0905adbbf4c.jpg",
 )
 
 TELEGRAM_VIDEO_URL = getenv(
     "TELEGRAM_VIDEO_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/6694152b5167a56d8ba2a-bf5934868bc42c5a35.jpg",
 )
 
 STREAM_IMG_URL = getenv(
     "STREAM_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/e7ca1ed37ca4ff8e95468-cde9c11ae34e2e1f8e.jpg",
 )
 
 SOUNCLOUD_IMG_URL = getenv(
     "SOUNCLOUD_IMG_URL",
-    "https://envs.sh/ZK5.jpg",
+    "https://graph.org/file/5ff70ad8bfab652c3bc1d-7fc84894af8edbb69e.jpg",
 )
 
 YOUTUBE_IMG_URL = getenv(
