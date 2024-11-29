@@ -35,7 +35,7 @@
         "required": false
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from `https://cloud.mongodb.com` . You can leave it blank if you want , bot will use VIP's database for you.",
+        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use VIP's database for you.",
         "value": "",
         "required": true
       },
@@ -76,7 +76,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO",
+        "value": "https://github.com/Shivmis/x1",
         "required": true
       },
       "UPSTREAM_BRANCH": {
